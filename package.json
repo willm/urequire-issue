@@ -1,0 +1,17 @@
+{
+  "name": "urequire-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "urequire-config.js",
+  "dependencies": {
+    "urequire": "^0.7.0-beta.15"
+  },
+  "devDependencies": {
+    "urequire": "^0.7.0-beta.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
